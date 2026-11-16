@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "staunchtechnologies.vercel.app",
+  "Id": "f7895dff-c6d0-4127-828c-c5f66c90446b"
+}
